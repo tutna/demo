@@ -11,7 +11,7 @@ The color can be set with the **splashColor** property. The splash size is depen
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:splash_tap/splash_tap.dart';
+import 'package:flutter_demo_package/package:flutter_demo_package.dart';
 
 void main() => runApp(MyApp());
 
